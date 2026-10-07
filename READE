@@ -1,0 +1,26 @@
+Laboratorio 6.1
+Creación de una página web responsiva con Bootstrap, CSS y JavaScript
+
+Este proyecto fue creado para practicar diferentes conceptos fundamentales de JavaScript.
+
+El proyecto incluye:
+
+- Una página HTML5.
+- Bootstrap para crear una interfaz responsiva.
+- Un archivo CSS externo para personalizar el diseño.
+- Un archivo JavaScript externo.
+- Declaración de variables y diferentes tipos de datos.
+- Uso de arreglos y objetos.
+- Estructuras condicionales if, else if y else.
+- Bucles for, while y do...while.
+- Funciones para ejecutar tareas específicas.
+- Ejemplos del alcance global y local de variables.
+- Un ejemplo práctico de closure.
+- Pruebas con diferentes valores.
+- Uso de la consola del navegador para observar los resultados.
+
+El usuario puede ingresar su nombre y una nota para observar cómo JavaScript utiliza estructuras condicionales para producir diferentes resultados.
+
+También puede mostrar los elementos de un arreglo mediante un ciclo for y ejecutar un contador creado utilizando un closure.
+
+El proyecto fue desarrollado utilizando Visual Studio Code y probado en un navegador web.

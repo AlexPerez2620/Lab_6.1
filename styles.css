@@ -1,0 +1,47 @@
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero {
+    padding: 70px 20px;
+    background-color: #e9ecef;
+}
+
+.hero-img {
+    margin-top: 25px;
+    max-height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.seccion-pruebas {
+    background-color: white;
+}
+
+#salida {
+    min-height: 70px;
+}
+
+footer {
+    margin-top: 60px;
+}
+
+@media (max-width: 768px) {
+
+    .hero {
+        padding: 40px 15px;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+}
